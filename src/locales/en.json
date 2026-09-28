@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "name": "Terrible Lizards Wiki",
+    "shortName": "Terrible Lizards",
+    "tagline": "Horror Parkour Survival Guides, Creatures & Secrets",
+    "description": "Your ultimate guide to Terrible Lizards, the dinosaur horror parkour game from WDR Studios. Explore creature encounters, survival routes, secrets, and progression guides.",
+    "legalNotice": "Non-official fan wiki. Made by players, for players. Not affiliated with WDR Studios LLC, Digital Pajamas, or Behaviour Interactive."
   },
   "nav": {
     "races": "Races",
@@ -26,22 +26,22 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Terrible Lizards Wiki - Dinosaurs, Creatures & Guides",
+      "description": "Explore Terrible Lizards Wiki for dinosaur details, survival guides, creature information, gameplay tips, progression strategies, and the latest updates."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Prehistoric Dinosaur Survival Game",
+      "title": "Terrible Lizards Wiki",
+      "description": "Terrible Lizards Wiki provides dinosaur survival guides, creature information, gameplay tips, progression strategies, and essential resources for players exploring the prehistoric world.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "Steam · PS5 · Xbox",
+        "Demo Available",
+        "Release: Oct 29, 2026",
+        "Weekly Updates"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
+      "secondaryCta": "Creature Database",
+      "tertiaryCta": "Full Walkthrough",
       "videoLabel": "Official media"
     },
     "updates": {
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Survive Terrible Lizards?",
+      "description": "From your first steps through Dalton's Dinos to the hidden horrors waiting below, our community wiki has you covered with free, up-to-date guides.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "Wishlist on Steam"
     }
   },
   "bosses": {
@@ -379,21 +379,23 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Terrible Lizards Wiki",
+    "about": "Terrible Lizards Wiki is an independent fan-built guide hub covering creature encounters, survival routes, parkour mechanics, secrets, and essential game knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
+    "copyright": "2026 Terrible Lizards Wiki. Not affiliated with WDR Studios LLC, Digital Pajamas, or Behaviour Interactive.",
+    "description": "Horror parkour dinosaur survival game from WDR Studios. Out Oct 29, 2026 on PC, PS5, and Xbox.",
+    "playGame": "Wishlist on Steam",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "officialTwitter": "Official X (Twitter)",
+    "officialWebsite": "Official Website",
+    "vvBuilder": "Play the Demo",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Creature Guides",
+    "bossGuides": "Monster Guides",
+    "buildGuide": "Survival Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
