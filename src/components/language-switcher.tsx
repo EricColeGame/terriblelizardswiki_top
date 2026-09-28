@@ -26,17 +26,18 @@ const LOCALE_LABELS = {
 export function LanguageSwitcher({ locale }: { locale: string }) {
   const pathname = usePathname();
   const router = useRouter();
+  const activeLocale = locale as Locale;
 
-  if (!routing.locales.includes(locale as Locale)) return null;
+  if (!routing.locales.includes(activeLocale)) return null;
   if (routing.locales.length <= 1) return null;
 
   const handleSwitch = (nextLocale: Locale) => {
-    if (nextLocale === locale) return;
+    if (nextLocale === activeLocale) return;
 
     let newPath = pathname;
 
     // 所有静态导出页面都使用明确的 locale 前缀。
-    newPath = newPath.replace(new RegExp(`^/${locale}(?=/|$)`), "") || "/";
+    newPath = newPath.replace(new RegExp(`^/${activeLocale}(?=/|$)`), "") || "/";
     newPath = `/${nextLocale}${newPath === "/" ? "" : newPath}`;
 
     router.push(newPath);
@@ -47,7 +48,7 @@ export function LanguageSwitcher({ locale }: { locale: string }) {
       <DropdownMenuTrigger asChild>
         <Button variant="ghost" size="sm" className="gap-1.5 text-xs font-medium text-muted-foreground hover:text-foreground">
           <Globe className="h-4 w-4" />
-          <span>{LOCALE_LABELS[locale] || locale.toUpperCase()}</span>
+          <span>{LOCALE_LABELS[activeLocale] || locale.toUpperCase()}</span>
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent align="end" className="min-w-[140px]">
@@ -58,7 +59,7 @@ export function LanguageSwitcher({ locale }: { locale: string }) {
             className="flex items-center justify-between gap-3"
           >
             <span>{LOCALE_LABELS[loc] || loc.toUpperCase()}</span>
-            {loc === (locale as Locale) && <Check className="h-4 w-4 text-[hsl(var(--nav-theme))]" />}
+            {loc === activeLocale && <Check className="h-4 w-4 text-[hsl(var(--nav-theme))]" />}
           </DropdownMenuItem>
         ))}
       </DropdownMenuContent>

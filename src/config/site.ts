@@ -40,6 +40,6 @@ export const siteConfig: SiteConfig = {
     reddit: "https://www.reddit.com/r/TerribleLizards",
     website: "https://www.terriblelizardsgame.com/",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "pt", "de"],
   defaultLocale: "en",
 };
