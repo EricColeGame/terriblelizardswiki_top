@@ -38,27 +38,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Terrible Lizards Wiki Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core loop at Dalton's Dinos: walking the perimeter, reading sightlines, and surviving your first chase when there are no weapons to fall back on."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Parkour & Controls",
+          "description": "Chain vaults, mantles, wall runs, and slides into one continuous escape line so a single missed input never ends your run."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Creatures & Monsters",
+          "description": "Read the Dilophosaurus, Stegosaurus, T. rex, and the Hybrid, learn how each one hunts, and find out how to break line of sight."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Demo & Release",
+          "description": "The demo is live now and the full game launches October 29, 2026. Here is what to practice early and what to expect on launch day."
         }
       ]
     },
@@ -66,237 +66,359 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Creature Database",
+        "Parkour Controls",
+        "Release Date"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need for your first run through Dalton's Dinos, from movement basics to surviving a chase.",
+          "href": "/guide/terrible-lizards-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Creature Database",
+          "description": "Every monster stalking the attraction, with chase patterns, behaviors, and survival tactics.",
+          "href": "/monsters/terrible-lizards-monsters"
+        },
+        {
+          "badge": "Popular",
+          "title": "Parkour & Controls",
+          "description": "Running, vaulting, climbing, wall running, bouncing, and sliding broken down into practical inputs.",
+          "href": "/mechanics/terrible-lizards-controls"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Full Walkthrough",
+          "description": "A start-to-finish route through the attraction with escape lanes and safe rooms.",
+          "href": "/guide/terrible-lizards-walkthrough"
+        },
+        {
+          "badge": "Popular",
+          "title": "Release Date",
+          "description": "Confirmed launch details, platforms, demo status, and price information for October 29, 2026.",
+          "href": "/release/terrible-lizards-release-date"
+        },
+        {
+          "badge": "New",
+          "title": "Demo Walkthrough",
+          "description": "Make the most of the playable demo with route planning, sightlines, and retreat lanes.",
+          "href": "/guide/terrible-lizards-demo-walkthrough"
+        },
+        {
+          "badge": "Popular",
+          "title": "Story & Lore",
+          "description": "Dalton's Dinos, the missing child, the tapes, and the mystery buried beneath the park.",
+          "href": "/lore/terrible-lizards-story"
+        },
+        {
+          "badge": "New",
+          "title": "Trailer Breakdown",
+          "description": "Every clue in the official footage, from the 1992 setting to the creatures and the release card.",
+          "href": "/media/terrible-lizards-trailer"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Secrets Guide",
+          "description": "Hidden routes, audio recordings, and environmental clues tucked away across the attraction.",
+          "href": "/guide/terrible-lizards-secrets"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Terrible Lizards Wiki?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Terrible Lizards is a first-person horror parkour game from developer WDR Studios LLC, published by Digital Pajamas and Behaviour Interactive. It strands you in 1992 at Dalton's Dinos, a fading Route 66 roadside attraction in New Mexico where the staff have vanished, a telephone keeps ringing about a missing child, and something is hunting you between the fiberglass dinosaurs.",
+        "There are no weapons and no combat, so your only tools are speed, momentum, and route knowledge. Terrible Lizards Wiki gathers the movement fundamentals, creature behavior, story clues, demo details, and release information you need to chain vaults, wall runs, and slides into a clean escape instead of another restart."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "WDR Studios LLC"
+        },
+        {
+          "label": "Publisher",
+          "value": "Digital Pajamas"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC · PS5 · Xbox"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Horror Parkour"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Perspective",
+          "value": "First-Person"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Release Date",
+          "value": "October 29, 2026"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Demo",
+          "value": "Live Since Sept 24, 2026"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Terrible Lizards Wiki",
+      "description": "Master Dalton's Dinos with survival routes, creature breakdowns, parkour fundamentals, story lore, demo details, and release information all in one place.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Terrible Lizards Wiki Beginner Guide",
+          "description": "A beginner-focused guide covering the core gameplay loop, survival basics, movement mechanics, and how to approach the horror parkour challenges at Dalton's Dinos.",
+          "href": "/guide/terrible-lizards-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Walk the perimeter of a new zone before touching anything that makes noise"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Stop and listen for 10 to 15 seconds on arrival to check for nearby creatures"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Identify two climbable structures so a chase always has a fallback"
+            },
+            {
+              "label": "4",
+              "detail": "Test one jump or vault early to confirm what the geometry actually allows"
+            },
+            {
+              "label": "5",
+              "detail": "Note objective markers so you never wander into a dead end"
+            },
+            {
+              "label": "6",
+              "detail": "Keep moving, but never sprint without a reason and save stamina for escapes"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Terrible Lizards Wiki Gameplay Guide",
+          "description": "A detailed gameplay breakdown covering movement techniques, exploration systems, environmental storytelling, and the survival strategies that keep you ahead of a chase.",
+          "href": "/mechanics/terrible-lizards-gameplay",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Momentum",
+              "detail": "Chain running, sliding, climbing, and wall running without ever stopping"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Height",
+              "detail": "Roofs, catwalks, and statue backs are safe from ground-bound pursuers"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Stealth",
+              "detail": "Crouch behind cover and listen before entering a new area"
+            },
+            {
+              "label": "Tapes",
+              "detail": "Notes, tapes, and recordings carry the story between chases"
+            },
+            {
+              "label": "No Combat",
+              "detail": "There are no weapons, so every encounter is solved with movement"
+            },
+            {
+              "label": "Framerate",
+              "detail": "Stable frames matter more than resolution during a wall run"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "name": "Terrible Lizards Wiki Creatures Guide",
+          "description": "A creature database covering the monsters you meet at Dalton's Dinos, their chase patterns, and the tactics that break a pursuit before it ends your run.",
+          "href": "/monsters/terrible-lizards-monsters",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Hybrid — waits, tracks, and climbs; the most persistent hunter in the park"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Tyrannosaurus — heavy and loud, but lethal across open ground"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Dilophosaurus — fast, two-crested pursuit that punishes straight lines"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Stegosaurus — slow and territorial, dangerous only when cornered"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Terrible Lizards Wiki Story Guide",
+          "description": "A story and lore section covering Dalton's Dinos, the Route 66 attraction setting, the missing child, and the environmental storytelling that hides the truth.",
+          "href": "/lore/terrible-lizards-story",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Setting",
+              "detail": "Dalton's Dinos, a fading Route 66 dinosaur attraction in 1992 New Mexico"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Caller",
+              "detail": "A telephone voice begs you to find a missing child"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Staff",
+              "detail": "The attraction's staff have vanished without explanation"
+            },
+            {
+              "label": "Tapes",
+              "detail": "Audio logs and notes fill in the human side of the story"
+            },
+            {
+              "label": "Mystery",
+              "detail": "Something dark is buried beneath the park, and it is the core question"
+            },
+            {
+              "label": "Ending",
+              "detail": "The finale hides its answers in audio cues and fan debate"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Terrible Lizards Wiki Controls Guide",
+          "description": "A controls and movement reference covering running, jumping, climbing, wall running, bouncing, and sliding so you can learn the traversal skills a chase demands.",
+          "href": "/mechanics/terrible-lizards-controls",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "WASD",
+              "detail": "Move — strafe and cut diagonally instead of running in straight lines"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Space",
+              "detail": "Jump and vault — clears railings, fences, and debris mid-chase"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Shift",
+              "detail": "Sprint — hold or toggle to create distance on open ground"
+            },
+            {
+              "label": "Ctrl / C",
+              "detail": "Crouch and slide — slips under gaps and kills your noise"
+            },
+            {
+              "label": "E",
+              "detail": "Interact — collects clues and opens doors"
+            },
+            {
+              "label": "M / Tab",
+              "detail": "Map and objectives — plan your next route during safe windows"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Terrible Lizards Wiki Demo Guide",
+          "description": "A guide to the playable demo covering availability, features, and what you can experience at Dalton's Dinos before the October 29, 2026 launch.",
+          "href": "/guide/terrible-lizards-demo-walkthrough",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Live Now",
+              "detail": "The demo released on September 24, 2026, ahead of the full launch"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Setting",
+              "detail": "Play a slice of the Route 66 attraction before release day"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Practice",
+              "detail": "Use low-stakes demo runs to drill vaults, wall runs, and slides"
+            },
+            {
+              "label": "Observe",
+              "detail": "Scan the approach and pick retreat lanes before committing"
+            },
+            {
+              "label": "Landmarks",
+              "detail": "Large dinosaur props double as hiding spots and sightline blockers"
+            },
+            {
+              "label": "Full Game",
+              "detail": "Build the habits that carry into the October 29, 2026 release"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Terrible Lizards Wiki Release Guide",
+          "description": "Release information covering the launch date, platforms, wishlist details, price status, and official announcements for Terrible Lizards.",
+          "href": "/release/terrible-lizards-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Oct 29, 2026",
+              "detail": "Official release date for the full game on Steam, PS5, and Xbox"
+            },
+            {
+              "label": "PC · PS5 · Xbox",
+              "detail": "Confirmed platforms, with store pages live for wishlisting"
+            },
+            {
+              "label": "Demo",
+              "detail": "A playable demo has been available since September 24, 2026"
+            },
+            {
+              "label": "Price",
+              "detail": "Not yet listed on Steam — wishlist for launch-day pricing"
+            },
+            {
+              "label": "Single-Player",
+              "detail": "A one-player horror experience with no co-op or multiplayer"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Terrible Lizards Wiki Videos Guide",
+          "description": "A video collection featuring the official trailer, gameplay previews, and developer media that show Dalton's Dinos in motion.",
+          "href": "/media/terrible-lizards-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Trailer",
+              "detail": "An 82-second gameplay, narrative, and release date trailer"
+            },
+            {
+              "label": "Setting",
+              "detail": "Footage confirms the 1992 Route 66 dinosaur attraction"
+            },
+            {
+              "label": "Parkour",
+              "detail": "Running, climbing, wall running, and sliding shown in motion"
+            },
+            {
+              "label": "Antagonist",
+              "detail": "Shambling creatures stalk the abandoned dino depot"
+            },
+            {
+              "label": "No Weapons",
+              "detail": "No combat appears at any point in the footage"
+            },
+            {
+              "label": "Release",
+              "detail": "The trailer closes on the October 29, 2026 launch card"
             }
           ]
         }
@@ -304,27 +426,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about Terrible Lizards Wiki and the game it covers.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Terrible Lizards?",
+          "answer": "Terrible Lizards is a first-person horror parkour game from WDR Studios LLC, published by Digital Pajamas and Behaviour Interactive. Terrible Lizards Wiki covers its 1992 Dalton's Dinos setting, where you are hunted by dinosaurs and cannot fight back."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is there any combat in Terrible Lizards?",
+          "answer": "No. The game has no weapons and combat is not an option, so every encounter is solved with movement, stealth, and breaking line of sight. Terrible Lizards Wiki breaks those escapes down route by route."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "When does Terrible Lizards release, and is there a demo?",
+          "answer": "The full game launches on October 29, 2026 for PC, PS5, and Xbox. A playable demo has been available since September 24, 2026, and Terrible Lizards Wiki explains how to use it to practice parkour routes early."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Can you play Terrible Lizards in co-op?",
+          "answer": "No. Terrible Lizards Wiki covers a strictly single-player experience, with no co-op or multiplayer mode listed on any store page."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Where should beginners start on Terrible Lizards Wiki?",
+          "answer": "Begin with the Terrible Lizards Wiki beginner guide and controls guide, learn the six parkour moves, then walk the perimeter of each new zone before you sprint through it."
         }
       ]
     },
