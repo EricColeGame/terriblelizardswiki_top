@@ -8,6 +8,13 @@
   },
   "nav": {
     "home": "Home",
+    "guide": "Guide",
+    "release": "Release",
+    "mechanics": "Mechanics",
+    "monsters": "Monsters",
+    "lore": "Lore",
+    "media": "Media",
+    "community": "Community",
     "menu": "Menu",
     "toggleTheme": "Toggle theme"
   },
@@ -457,7 +464,34 @@
       "secondary": "Wishlist on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Terrible Lizards Wiki Guides",
+    "overviewDescription": "Step-by-step Terrible Lizards walkthroughs, beginner routes, endings, secrets, and demo coverage to help you survive Dalton's Dinos."
+  },
+  "release": {
+    "overviewTitle": "Terrible Lizards Release & Platforms",
+    "overviewDescription": "Terrible Lizards release date, price, Steam, PS5, and Xbox details, plus everything confirmed for launch and the playable demo."
+  },
+  "mechanics": {
+    "overviewTitle": "Terrible Lizards Gameplay & Mechanics",
+    "overviewDescription": "Terrible Lizards controls, parkour, survival, multiplayer, and horror gameplay systems explained in practical detail."
+  },
+  "monsters": {
+    "overviewTitle": "Terrible Lizards Monsters & Dinosaurs",
+    "overviewDescription": "Terrible Lizards dinosaurs and monsters, from the T. rex and Dilophosaurus to Stegosaurus, hybrids, and the Dinosauria shorts."
+  },
+  "lore": {
+    "overviewTitle": "Terrible Lizards Lore & Story",
+    "overviewDescription": "Terrible Lizards story, plot, characters, and the real-world creators behind Dalton's Dinos and the dinosaur horror setting."
+  },
+  "media": {
+    "overviewTitle": "Terrible Lizards Media & Trailers",
+    "overviewDescription": "Terrible Lizards trailer breakdowns, concept art, soundtrack, behind-the-scenes coverage, and Dinosauria animated shorts."
+  },
+  "community": {
+    "overviewTitle": "Terrible Lizards Community",
+    "overviewDescription": "Terrible Lizards Reddit and Discord links, community hubs, and where to find fellow survivors and co-op partners."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -488,12 +522,12 @@
     "officialYoutube": "Official YouTube",
     "officialTwitter": "Official X (Twitter)",
     "officialWebsite": "Official Website",
-    "vvBuilder": "Play the Demo",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Creature Guides",
-    "bossGuides": "Monster Guides",
-    "buildGuide": "Survival Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "playDemo": "Play the Demo",
+    "creatureGuides": "Creature Guides",
+    "mechanicsGuides": "Gameplay & Mechanics",
+    "releaseGuide": "Release & Platforms"
   }
 }
