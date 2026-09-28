@@ -8,8 +8,8 @@ import de from "@/locales/de.json";
 
 type Messages = typeof en;
 
-// locale → messages 映射。非英文 locale 的 JSON 目前为空对象，
-// deepMerge 会回退到 en，但语言文件必须真实存在并与 routing.locales 一一对应。
+// locale → messages 映射。每个非英文 JSON 都是 en.json 的完整翻译，
+// deepMerge 仅用于兜底缺失字段，语言文件必须真实存在并与 routing.locales 一一对应。
 const messagesMap: Record<Locale, Partial<Messages>> = {
   "en": en,
   "es": es,

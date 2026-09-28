@@ -1,1 +1,533 @@
-{}
+{
+  "site": {
+    "name": "Terrible Lizards Wiki",
+    "shortName": "Terrible Lizards",
+    "tagline": "Horror-Parkour-Überlebensguides, Kreaturen & Geheimnisse",
+    "description": "Dein ultimativer Guide zu Terrible Lizards, dem Dinosaurier-Horror-Parkour-Spiel von WDR Studios. Entdecke Kreaturenbegegnungen, Überlebensrouten, Geheimnisse und Fortschrittsguides.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler gemacht. Nicht mit WDR Studios LLC, Digital Pajamas oder Behaviour Interactive verbunden."
+  },
+  "nav": {
+    "home": "Start",
+    "guide": "Guide",
+    "release": "Release",
+    "mechanics": "Mechanik",
+    "monsters": "Monster",
+    "lore": "Lore",
+    "media": "Medien",
+    "community": "Community",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln"
+  },
+  "home": {
+    "meta": {
+      "title": "Terrible Lizards Wiki - Dinosaurier, Kreaturen & Guides",
+      "description": "Entdecke Terrible Lizards Wiki für Dinosaurier-Details, Überlebensguides, Kreatureninfos, Gameplay-Tipps, Fortschrittsstrategien und die neuesten Updates."
+    },
+    "hero": {
+      "eyebrow": "Prähistorisches Dinosaurier-Überlebensspiel",
+      "title": "Terrible Lizards Wiki",
+      "description": "Terrible Lizards Wiki bietet Dinosaurier-Überlebensguides, Kreatureninfos, Gameplay-Tipps, Fortschrittsstrategien und wichtige Ressourcen für Spieler, die die prähistorische Welt erkunden.",
+      "stats": [
+        "Steam · PS5 · Xbox",
+        "Demo verfügbar",
+        "Release: 29. Okt. 2026",
+        "Wöchentliche Updates"
+      ],
+      "primaryCta": "Einsteiger-Guide",
+      "secondaryCta": "Kreaturen-Datenbank",
+      "tertiaryCta": "Komplettlösung",
+      "videoLabel": "Offizielle Medien"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle ansehen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Reise durch Terrible Lizards Wiki",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Lerne die Kernschleife in Dalton's Dinos kennen: das Gelände umrunden, Sichtlinien lesen und die erste Verfolgung überleben, wenn es keine Waffen als Rückhalt gibt."
+        },
+        {
+          "number": "2",
+          "title": "Parkour & Steuerung",
+          "description": "Kette Sprünge, Aufschwünge, Wandläufe und Slides zu einer durchgehenden Fluchtlinie, damit ein einzelner Fehler deinen Lauf nicht beendet."
+        },
+        {
+          "number": "3",
+          "title": "Kreaturen & Monster",
+          "description": "Studiere Dilophosaurus, Stegosaurus, T. rex und den Hybriden, lerne, wie jeder jagt, und finde heraus, wie du die Sichtlinie brichst."
+        },
+        {
+          "number": "4",
+          "title": "Demo & Release",
+          "description": "Die Demo ist jetzt verfügbar und das vollständige Spiel erscheint am 29. Oktober 2026. Das solltest du früh üben und das erwartet dich am Release-Tag."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Gerade angesagt",
+      "quickLinks": [
+        "Einsteiger-Guide",
+        "Kreaturen-Datenbank",
+        "Parkour-Steuerung",
+        "Release-Datum"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Einsteiger-Guide",
+          "description": "Alles, was du für deinen ersten Durchlauf durch Dalton's Dinos brauchst – von den Bewegungsgrundlagen bis zum Überleben einer Verfolgung.",
+          "href": "/guide/terrible-lizards-guide"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Kreaturen-Datenbank",
+          "description": "Jedes Monster, das die Attraktion durchstreift, mit Verfolgungsmustern, Verhalten und Überlebenstaktiken.",
+          "href": "/monsters/terrible-lizards-monsters"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Parkour & Steuerung",
+          "description": "Laufen, Springen, Klettern, Wandlaufen, Abprallen und Rutschen in praktische Eingaben zerlegt.",
+          "href": "/mechanics/terrible-lizards-controls"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Komplettlösung",
+          "description": "Eine Route von Anfang bis Ende durch die Attraktion mit Fluchtwegen und sicheren Räumen.",
+          "href": "/guide/terrible-lizards-walkthrough"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Release-Datum",
+          "description": "Bestätigte Release-Details, Plattformen, Demo-Status und Preisinformationen zum 29. Oktober 2026.",
+          "href": "/release/terrible-lizards-release-date"
+        },
+        {
+          "badge": "Neu",
+          "title": "Demo-Komplettlösung",
+          "description": "Hol das Meiste aus der spielbaren Demo mit Routenplanung, Sichtlinien und Rückzugswegen.",
+          "href": "/guide/terrible-lizards-demo-walkthrough"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Story & Lore",
+          "description": "Dalton's Dinos, das vermisste Kind, die Bänder und das Geheimnis unter dem Park.",
+          "href": "/lore/terrible-lizards-story"
+        },
+        {
+          "badge": "Neu",
+          "title": "Trailer-Analyse",
+          "description": "Jeder Hinweis im offiziellen Material, vom Setting 1992 bis zu den Kreaturen und der Release-Karte.",
+          "href": "/media/terrible-lizards-trailer"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Geheimnis-Guide",
+          "description": "Versteckte Routen, Audioaufnahmen und Umgebungshinweise, die über die ganze Attraktion verteilt sind.",
+          "href": "/guide/terrible-lizards-secrets"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Terrible Lizards Wiki?",
+      "paragraphs": [
+        "Terrible Lizards ist ein First-Person-Horror-Parkour-Spiel des Entwicklers WDR Studios LLC, veröffentlicht von Digital Pajamas und Behaviour Interactive. Es verschlägt dich ins Jahr 1992 nach Dalton's Dinos, eine verfallende Roadside-Attraktion an der Route 66 in New Mexico, wo das Personal verschwunden ist, ein Telefon wegen eines vermissten Kindes klingelt und etwas zwischen den Fiberglas-Dinosauriern Jagd auf dich macht.",
+        "Es gibt keine Waffen und keinen Kampf, deine einzigen Werkzeuge sind also Geschwindigkeit, Schwung und Routenkenntnis. Terrible Lizards Wiki sammelt die Bewegungsgrundlagen, das Verhalten der Kreaturen, Story-Hinweise, Demo-Details und Release-Infos, die du brauchst, um Sprünge, Wandläufe und Slides zu einer sauberen Flucht zu verketten statt in einen weiteren Neustart."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "WDR Studios LLC"
+        },
+        {
+          "label": "Publisher",
+          "value": "Digital Pajamas"
+        },
+        {
+          "label": "Plattform",
+          "value": "PC · PS5 · Xbox"
+        },
+        {
+          "label": "Genre",
+          "value": "Horror-Parkour"
+        },
+        {
+          "label": "Perspektive",
+          "value": "Ego-Perspektive"
+        },
+        {
+          "label": "Release-Datum",
+          "value": "29. Oktober 2026"
+        },
+        {
+          "label": "Demo",
+          "value": "Verfügbar seit 24. September 2026"
+        }
+      ],
+      "cta": "Alle Guides entdecken"
+    },
+    "explore": {
+      "title": "Entdecke Terrible Lizards Wiki",
+      "description": "Meistere Dalton's Dinos mit Überlebensrouten, Kreaturen-Analysen, Parkour-Grundlagen, Story-Lore, Demo-Details und Release-Infos an einem Ort.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Terrible Lizards Wiki Einsteiger-Guide",
+          "description": "Ein einsteigerfreundlicher Guide zur Kern-Gameplay-Schleife, zu Überlebensgrundlagen, Bewegungsmechaniken und zum Umgang mit den Horror-Parkour-Herausforderungen in Dalton's Dinos.",
+          "href": "/guide/terrible-lizards-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Umrunde eine neue Zone, bevor du etwas berührst, das Geräusche macht"
+            },
+            {
+              "label": "2",
+              "detail": "Halte beim Ankommen 10 bis 15 Sekunden inne und lausche nach Kreaturen in der Nähe"
+            },
+            {
+              "label": "3",
+              "detail": "Finde zwei bekletterbare Strukturen, damit eine Verfolgung immer einen Ausweg hat"
+            },
+            {
+              "label": "4",
+              "detail": "Teste früh einen Sprung, um zu bestätigen, was die Geometrie tatsächlich zulässt"
+            },
+            {
+              "label": "5",
+              "detail": "Merke dir Zielmarkierungen, damit du nie in eine Sackgasse gerätst"
+            },
+            {
+              "label": "6",
+              "detail": "Bleib in Bewegung, aber sprenge nie ohne Grund und spare Ausdauer für Fluchten"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Terrible Lizards Wiki Gameplay-Guide",
+          "description": "Eine detaillierte Gameplay-Analyse zu Bewegungstechniken, Erkundungssystemen, Umweltgeschichtenerzählen und den Überlebensstrategien, die dich bei einer Verfolgung vorn halten.",
+          "href": "/mechanics/terrible-lizards-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Schwung",
+              "detail": "Kette Laufen, Rutschen, Klettern und Wandlaufen, ohne je anzuhalten"
+            },
+            {
+              "label": "Höhe",
+              "detail": "Dächer, Laufstege und Statuenrücken sind vor bodengebundenen Verfolgern sicher"
+            },
+            {
+              "label": "Stealth",
+              "detail": "Ducke dich hinter Deckung und lausche, bevor du einen neuen Bereich betrittst"
+            },
+            {
+              "label": "Bänder",
+              "detail": "Notizen, Bänder und Aufnahmen tragen die Geschichte zwischen den Verfolgungen"
+            },
+            {
+              "label": "Kein Kampf",
+              "detail": "Es gibt keine Waffen, also wird jede Begegnung mit Bewegung gelöst"
+            },
+            {
+              "label": "Bildrate",
+              "detail": "Stabile Frames sind bei einem Wandlauf wichtiger als die Auflösung"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Terrible Lizards Wiki Kreaturen-Guide",
+          "description": "Eine Kreaturen-Datenbank zu den Monstern in Dalton's Dinos, ihren Verfolgungsmustern und den Taktiken, die eine Verfolgung brechen, bevor sie deinen Lauf beendet.",
+          "href": "/monsters/terrible-lizards-monsters",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Hybrid — wartet, verfolgt und klettert; der hartnäckigste Jäger im Park"
+            },
+            {
+              "label": "A",
+              "detail": "Tyrannosaurus — schwer und laut, aber tödlich auf offenem Gelände"
+            },
+            {
+              "label": "B",
+              "detail": "Dilophosaurus — schnelle Verfolgung mit zwei Kämmen, die gerade Linien bestraft"
+            },
+            {
+              "label": "C",
+              "detail": "Stegosaurus — langsam und territorial, nur gefährlich, wenn er in die Enge getrieben wird"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Terrible Lizards Wiki Story-Guide",
+          "description": "Ein Story- und Lore-Abschnitt zu Dalton's Dinos, dem Setting der Route-66-Attraktion, dem vermissten Kind und dem Umweltgeschichtenerzählen, das die Wahrheit verbirgt.",
+          "href": "/lore/terrible-lizards-story",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Setting",
+              "detail": "Dalton's Dinos, eine verfallende Dinosaurier-Attraktion an der Route 66 im New Mexico von 1992"
+            },
+            {
+              "label": "Anrufer",
+              "detail": "Eine Stimme am Telefon fleht dich an, ein vermisstes Kind zu finden"
+            },
+            {
+              "label": "Personal",
+              "detail": "Das Personal der Attraktion ist ohne Erklärung verschwunden"
+            },
+            {
+              "label": "Bänder",
+              "detail": "Audio-Logs und Notizen ergänzen die menschliche Seite der Geschichte"
+            },
+            {
+              "label": "Mysterium",
+              "detail": "Etwas Dunkles ist unter dem Park begraben, und das ist die Kernfrage"
+            },
+            {
+              "label": "Ende",
+              "detail": "Das Finale verbirgt seine Antworten in Audiohinweisen und Fan-Debatten"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Terrible Lizards Wiki Steuerungs-Guide",
+          "description": "Eine Steuerungs- und Bewegungsreferenz zu Laufen, Springen, Klettern, Wandlaufen, Abprallen und Rutschen, damit du die Fortbewegungsfähigkeiten lernst, die eine Verfolgung verlangt.",
+          "href": "/mechanics/terrible-lizards-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "WASD",
+              "detail": "Bewegen — seitlich ausweichen und diagonal abbiegen statt geradeaus zu rennen"
+            },
+            {
+              "label": "Space",
+              "detail": "Springen und Überspringen — überwindet Geländer, Zäune und Trümmer mitten in der Verfolgung"
+            },
+            {
+              "label": "Shift",
+              "detail": "Sprinten — halten oder umschalten, um auf offenem Gelände Abstand zu gewinnen"
+            },
+            {
+              "label": "Ctrl / C",
+              "detail": "Ducken und Rutschen — schlüpft durch Lücken und dämpft deine Geräusche"
+            },
+            {
+              "label": "E",
+              "detail": "Interagieren — sammelt Hinweise und öffnet Türen"
+            },
+            {
+              "label": "M / Tab",
+              "detail": "Karte und Ziele — plane deine nächste Route in sicheren Momenten"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Terrible Lizards Wiki Demo-Guide",
+          "description": "Ein Guide zur spielbaren Demo mit Verfügbarkeit, Features und dem, was du in Dalton's Dinos vor dem Release am 29. Oktober 2026 erleben kannst.",
+          "href": "/guide/terrible-lizards-demo-walkthrough",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Jetzt verfügbar",
+              "detail": "Die Demo erschien am 24. September 2026, vor dem vollständigen Release"
+            },
+            {
+              "label": "Setting",
+              "detail": "Spiele einen Ausschnitt der Route-66-Attraktion vor dem Release-Tag"
+            },
+            {
+              "label": "Übung",
+              "detail": "Nutze risikofreie Demo-Läufe, um Sprünge, Wandläufe und Slides zu trainieren"
+            },
+            {
+              "label": "Beobachten",
+              "detail": "Prüfe den Zugang und wähle Rückzugswege, bevor du dich festlegst"
+            },
+            {
+              "label": "Orientierungspunkte",
+              "detail": "Große Dinosaurier-Requisiten dienen zugleich als Versteck und Sichtblocker"
+            },
+            {
+              "label": "Vollversion",
+              "detail": "Baue Gewohnheiten auf, die beim Release am 29. Oktober 2026 tragen"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Terrible Lizards Wiki Release-Guide",
+          "description": "Release-Informationen zu Launch-Datum, Plattformen, Wishlist-Details, Preisstatus und offiziellen Ankündigungen zu Terrible Lizards.",
+          "href": "/release/terrible-lizards-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "29. Okt. 2026",
+              "detail": "Offizielles Release-Datum für das vollständige Spiel auf Steam, PS5 und Xbox"
+            },
+            {
+              "label": "PC · PS5 · Xbox",
+              "detail": "Bestätigte Plattformen, mit Live-Store-Seiten für die Wishlist"
+            },
+            {
+              "label": "Demo",
+              "detail": "Eine spielbare Demo ist seit dem 24. September 2026 verfügbar"
+            },
+            {
+              "label": "Preis",
+              "detail": "Noch nicht auf Steam gelistet — auf die Wishlist setzen für den Preis am Release-Tag"
+            },
+            {
+              "label": "Einzelspieler",
+              "detail": "Ein Horror-Erlebnis für einen Spieler, ohne Koop oder Mehrspieler"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Terrible Lizards Wiki Video-Guide",
+          "description": "Eine Videosammlung mit dem offiziellen Trailer, Gameplay-Vorschauen und Entwickler-Material, die Dalton's Dinos in Bewegung zeigen.",
+          "href": "/media/terrible-lizards-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Trailer",
+              "detail": "Ein 82-sekündiger Trailer zu Gameplay, Handlung und Release-Datum"
+            },
+            {
+              "label": "Setting",
+              "detail": "Das Material bestätigt die Dinosaurier-Attraktion an der Route 66 von 1992"
+            },
+            {
+              "label": "Parkour",
+              "detail": "Laufen, Klettern, Wandlaufen und Rutschen in Bewegung gezeigt"
+            },
+            {
+              "label": "Antagonist",
+              "detail": "Schlurfende Kreaturen durchstreifen das verlassene Dino-Depot"
+            },
+            {
+              "label": "Keine Waffen",
+              "detail": "Im Material ist an keiner Stelle ein Kampf zu sehen"
+            },
+            {
+              "label": "Release",
+              "detail": "Der Trailer endet mit der Release-Karte zum 29. Oktober 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu Terrible Lizards Wiki und dem Spiel, das es behandelt.",
+      "items": [
+        {
+          "question": "Was ist Terrible Lizards?",
+          "answer": "Terrible Lizards ist ein First-Person-Horror-Parkour-Spiel von WDR Studios LLC, veröffentlicht von Digital Pajamas und Behaviour Interactive. Terrible Lizards Wiki behandelt das Dalton's Dinos-Setting von 1992, in dem Dinosaurier dich jagen und du dich nicht wehren kannst."
+        },
+        {
+          "question": "Gibt es in Terrible Lizards Kämpfe?",
+          "answer": "Nein. Das Spiel hat keine Waffen und Kampf ist keine Option, also wird jede Begegnung mit Bewegung, Stealth und dem Durchbrechen der Sichtlinie gelöst. Terrible Lizards Wiki schlüsselt diese Fluchten Route für Route auf."
+        },
+        {
+          "question": "Wann erscheint Terrible Lizards und gibt es eine Demo?",
+          "answer": "Das vollständige Spiel erscheint am 29. Oktober 2026 für PC, PS5 und Xbox. Eine spielbare Demo ist seit dem 24. September 2026 verfügbar, und Terrible Lizards Wiki erklärt, wie du damit früh Parkour-Routen üben kannst."
+        },
+        {
+          "question": "Kann man Terrible Lizards im Koop spielen?",
+          "answer": "Nein. Terrible Lizards Wiki behandelt ein striktes Einzelspieler-Erlebnis, ohne Koop- oder Mehrspielermodus auf einer Store-Seite."
+        },
+        {
+          "question": "Wo sollten Anfänger auf Terrible Lizards Wiki beginnen?",
+          "answer": "Beginne mit dem Einsteiger-Guide und dem Steuerungs-Guide von Terrible Lizards Wiki, lerne die sechs Parkour-Bewegungen und umrunde dann jede neue Zone, bevor du sie im Sprint durchquerst."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Terrible Lizards zu überleben?",
+      "description": "Von deinen ersten Schritten durch Dalton's Dinos bis zu den verborgenen Schrecken da unten deckt dich unser Community-Wiki mit kostenlosen, aktuellen Guides ab.",
+      "primary": "Lies den Einsteiger-Guide",
+      "secondary": "Auf Steam auf die Wishlist"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Terrible Lizards Wiki Guides",
+    "overviewDescription": "Schritt-für-Schritt-Walkthroughs zu Terrible Lizards, Einsteiger-Routen, Enden, Geheimnisse und Demo-Berichterstattung, damit du Dalton's Dinos überlebst."
+  },
+  "release": {
+    "overviewTitle": "Terrible Lizards Release & Plattformen",
+    "overviewDescription": "Release-Datum, Preis, Steam-, PS5- und Xbox-Details zu Terrible Lizards sowie alles Bestätigte zu Launch und spielbarer Demo."
+  },
+  "mechanics": {
+    "overviewTitle": "Terrible Lizards Gameplay & Mechanik",
+    "overviewDescription": "Steuerung, Parkour, Überleben, Mehrspieler und Horror-Gameplay-Systeme von Terrible Lizards praxisnah erklärt."
+  },
+  "monsters": {
+    "overviewTitle": "Terrible Lizards Monster & Dinosaurier",
+    "overviewDescription": "Dinosaurier und Monster aus Terrible Lizards, vom T. rex und Dilophosaurus bis zum Stegosaurus, Hybriden und den Dinosauria-Kurzfilmen."
+  },
+  "lore": {
+    "overviewTitle": "Terrible Lizards Lore & Story",
+    "overviewDescription": "Geschichte, Handlung, Charaktere und die realen Schöpfer hinter Dalton's Dinos und dem Dinosaurier-Horror-Setting von Terrible Lizards."
+  },
+  "media": {
+    "overviewTitle": "Terrible Lizards Medien & Trailer",
+    "overviewDescription": "Trailer-Analysen, Concept Art, Soundtrack, Behind-the-Scenes-Berichte und animierte Dinosauria-Kurzfilme zu Terrible Lizards."
+  },
+  "community": {
+    "overviewTitle": "Terrible Lizards Community",
+    "overviewDescription": "Reddit- und Discord-Links zu Terrible Lizards, Community-Hubs und wo du andere Überlebende und Koop-Partner findest."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Start",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Terrible Lizards Wiki",
+    "about": "Terrible Lizards Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub zu Kreaturenbegegnungen, Überlebensrouten, Parkour-Mechaniken, Geheimnissen und wichtigem Spielwissen – für neue und erfahrene Spieler gleichermaßen.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Terrible Lizards Wiki. Nicht mit WDR Studios LLC, Digital Pajamas oder Behaviour Interactive verbunden.",
+    "description": "Horror-Parkour-Dinosaurier-Überlebensspiel von WDR Studios. Ab 29. Oktober 2026 für PC, PS5 und Xbox.",
+    "playGame": "Auf Steam auf die Wishlist",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizielles YouTube",
+    "officialTwitter": "Offizielles X (Twitter)",
+    "officialWebsite": "Offizielle Website",
+    "beginnerGuide": "Einsteiger-Guide",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen",
+    "playDemo": "Demo spielen",
+    "creatureGuides": "Kreaturen-Guides",
+    "mechanicsGuides": "Gameplay & Mechanik",
+    "releaseGuide": "Release & Plattformen"
+  }
+}
